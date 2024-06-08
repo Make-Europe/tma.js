@@ -1,7 +1,7 @@
 # About Platform
 
-Telegram Mini Apps is a technology created by developers of the famous messenger Telegram. The main
-it’s purpose is to provide developers more flexible communication channel with Telegram users.
+Telegram Mini Apps is a technology created by developers of the famous messenger Telegram. Its main
+purpose is to provide developers a flexible communication channel with Telegram users.
 
 It may seem not clear, but Mini Apps are not self-served services. The first thing to note is,
 technically, this technology is just an add-on for such already-known Telegram functionality as
